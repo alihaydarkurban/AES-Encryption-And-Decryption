@@ -18,3 +18,11 @@ OFB is a version of the AES. OFB uses the AES in itself and it can encrypt and d
 The schematic explanation link is shown below.
 * [Tutorial of OFB](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Output_feedback_(OFB))
 ***
+#### Pay Attention
+[AES.py](https://github.com/alihaydarkurban/AES-Encryption-And-Decryption/blob/main/AES.py) is the main program of the project. [CBC.py](https://github.com/alihaydarkurban/AES-Encryption-And-Decryption/blob/main/CBC.py) and [OFB.py](https://github.com/alihaydarkurban/AES-Encryption-And-Decryption/blob/main/OFB.py) have to use [AES.py](https://github.com/alihaydarkurban/AES-Encryption-And-Decryption/blob/main/AES.py) to encrypt and decrypt the messages. The runnable files are [AES_test.py](https://github.com/alihaydarkurban/AES-Encryption-And-Decryption/blob/main/AES_test.py), [CBC_test.py](https://github.com/alihaydarkurban/AES-Encryption-And-Decryption/blob/main/CBC_test.py) and [OFB_test.py](https://github.com/alihaydarkurban/AES-Encryption-And-Decryption/blob/main/OFB_test.py) to test the programs.
+***
+
+#### Requirements 
+* The version of the python interpreter is Python 3.7.5 and you can find it [here](https://www.python.org/downloads/).
+***
+#### Running 
