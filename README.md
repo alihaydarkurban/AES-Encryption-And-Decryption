@@ -26,11 +26,16 @@ The schematic explanation link is shown below.
 The version of the python interpreter is Python 3.7.5 and you can find it [here](https://www.python.org/downloads/).
 ***
 #### Running 
-Open your terminal and go to the same path with the files and typed these
+Open your terminal and go to the same path with the files and typed these:
 ```
 python AES_test.py
 python CBC_test.py
 python OFB_test.py
 ```
 ***
-
+![Static badge](https://img.shields.io/badge/love-coding-success)
+![Static badge](https://img.shields.io/badge/cryptography-computer%20security-blue)
+![Static badge](https://img.shields.io/badge/encryption-decryption-red)
+![Static badge](https://img.shields.io/badge/AES-128bit-yellow)
+![Static badge](https://img.shields.io/badge/CBC-OFB-yellowgreen)
+![Static badge](https://img.shields.io/badge/python-programming-blueviolet)
