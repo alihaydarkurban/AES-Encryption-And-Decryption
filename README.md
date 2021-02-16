@@ -9,8 +9,12 @@ Some useful links are shown below.
 3. [Example Encryption](https://kavaliro.com/wp-content/uploads/2014/03/AES.pdf)
 ***
 #### Cipher block chaining (CBC)
-CBC is a version of the AES. CBS uses the AES in itself and it can encrypt and decrypt all messages which have more byte than 16.
+CBC is a version of the AES. CBS uses the AES in itself and it can encrypt and decrypt all messages which have more byte than 16.<br/>
+The schematic explanation link is shown below.
+1. [Tutorial of CBC](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Cipher_block_chaining_(CBC))
 ***
 #### Output Feedback (OFB)
-OFB is a version of the AES. OFB uses the AES in itself and it can encrypt and decrypt all messages which have more byte than 16.
+OFB is a version of the AES. OFB uses the AES in itself and it can encrypt and decrypt all messages which have more byte than 16.<br/>
+The schematic explanation link is shown below.
+1. [Tutorial of OFB](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Output_feedback_(OFB))
 ***
