@@ -23,6 +23,14 @@ The schematic explanation link is shown below.
 ***
 
 #### Requirements 
-* The version of the python interpreter is Python 3.7.5 and you can find it [here](https://www.python.org/downloads/).
+The version of the python interpreter is Python 3.7.5 and you can find it [here](https://www.python.org/downloads/).
 ***
 #### Running 
+Open your terminal and go to the same path with the files and typed these
+```
+python AES_test.py
+python CBC_test.py
+python OFB_test.py
+```
+***
+
